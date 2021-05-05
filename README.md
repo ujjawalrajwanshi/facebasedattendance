@@ -8,11 +8,11 @@ converting the images to grayscale images and store them in .YAML file in form o
 When in recognizing it uses the .YAML file as dataset and mathes with the real time images converting them to the array and matching
 them with the array in the .YAML file it crates and opens an EXCEL sheet in which student name and ID is written
 
-#Libraries Used
+# Libraries Used
 <ol>
   <li>Python 3</li>
   <li>OpenCV</li>
 </ol>
 
-#Usage
+# Usage
 The following command can be used to run the program <code>python Run.py</code>

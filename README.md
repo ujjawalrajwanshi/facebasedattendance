@@ -10,8 +10,8 @@ them with the array in the .YAML file it crates and opens an EXCEL sheet in whic
 
 # Libraries Used
 <ol>
-  <li>Python 3</li>
-  <li>OpenCV</li>
+  <li><a href="https://www.python.org/downloads/">Python 3</a></li>
+  <li><a href="https://pypi.org/project/opencv-python/">OpenCV</a></li>
 </ol>
 
 # Usage
